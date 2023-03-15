@@ -1,62 +1,97 @@
 [
-    {
+  {
+    "name": "starter",
+    "steps": [
+      {
+        "id": 1,
+        "day": "1",
+        "description": "Mix 20g of flour and 20g of water at room temperature in a glass jar. Cover with a lid, do not close too tightly and leave for a day at room temperature."
+      },
+      {
+        "id": 2,
+        "day": "2",
+        "description": "Add 20g of flour and 20g of water to the starter and leave for one more day."
+      },
+      {
+        "id": 3,
+        "day": "3",
+        "description": "Check the starter, if it doesn’t “move” and no pores have formed in it, add 20g of flour and 20g of water to it again."
+      },
+      {
+        "id": 4,
+        "day": "4",
+        "description": "The starter should begin to smell. The smell can be different: it can smell of sauerkraut, pickles, kefir and even chemicals! Add 40g of flour and 40g of water and leave for another 12 hours. The sourdough starter by now should rise and be approximately double the size. If not, however, no worries, it will grow later. Take 40g of the starter and add 40g of water and 40g of flour to it. Leave for another 12 hours."
+      },
+      {
+        "id": 5,
+        "day": "5",
+        "description": "Take 40g of the starter and add 40g of water and 40g of flour. Leave it for another 12 hours. The starter will become very “active”. At night, “feed” it again: add 40g of water and 40g of flour to this 40g starter."
+      },
+      {
+        "id": 6,
+        "day": "6 - 7",
+        "description": "Time to check if the starter is ready. To test, take 15g of the starter and add 75g of flour and 75g of water. If it works well, it will double within 4-8 hours. However, home temperature plays a big role, if it’s too fresh, the process will be slower. If you knead the dough for bread, and in 4-8 hours it has increased by 2-3 times, it means that the starter is already ready for baking."
+      },
+      {
+        "id": 7,
+        "day": "8 - 14",
+        "description": "If the starter does not work, continue to “feed” it with 40g of water and 40g of flour."
+      },
+      {
+        "id": 8,
+        "day": "What's next?",
+        "description": "Sourdough starter can be stored in the refrigerator. If it has “fallen”, it means that it has become acidic, and before it can be used, it will need to be “fed” again. “Feeding” is always done by mixing 40g of starter, 40g of flour and 40g of water."
+      }
+    ]
+  },
+  {
+    "name": "bread",
+    "steps": [
+      {
         "id": 1,
         "step": 1,
-        "description": "Place desired amount of water in a clean pot and bring to boil. Once it boils remove from stove."
-    },
-    {
+        "description": "'Feed' the starter the day before and leave it warm. Use boiled and lukewarm water. You can add the honey."
+      },
+      {
         "id": 2,
         "step": 2,
-        "description": "Add sugar to the water. You can use the handy proportions calculator in this website to know how much sugar you need for the amount of water you are using. Important: place sugar after removing from stove, otherwise sugar will caramelise and we don't want that. Stir water to help sugar disolve."
-    },
-    {
+        "description": "Mix all ingredients and work on the dough well."
+      },
+      {
         "id": 3,
         "step": 3,
-        "description": "Add the tea bags. Again, you can use the ingredient proportions calculator in this website to know how much tea do you need."
-    },
-    {
+        "description": "Leave under a towel in a bowl for 2 hours. After that, slightly pull out the edge of the dough on one side and fold it inwards by a third. "
+      },
+      {
         "id": 4,
         "step": 4,
-        "description": "Cover pot and leave until cool. It is important to wait until the water has cooled down - otherwise you will kill the SCOBY (I normally prepare this step at night and leave to cool down overnight)."
-    },
-    {
+        "description": "After an hour, repeat the same thing on the other side."
+      },
+      {
         "id": 5,
         "step": 5,
-        "description": "In parallel, sterilise the glass jar where fermentation will take place. There are millions of videos in YouTube how to do it, I recommend you head there for inspiration."
-    },
-    {
+        "description": "Leave it for another hour, take it out again and fold it, and finally, after another 60 minutes, repeat the same operation for the fourth time."
+      },
+      {
         "id": 6,
         "step": 6,
-        "description": "Once water has cooled down, remove tea bags and transfer liquid to glass container for fermentation."
-    },
-    {
+        "description": "After that, leave the dough for 30 minutes."
+      },
+      {
         "id": 7,
         "step": 7,
-        "description": "Place SCOBY in the container. Important: I recommend handling the SCOBY with vinyl gloves or, if you don't have, very clean hands."
-    },
-    {
+        "description": "Sprinkle the bread form with flour. Form a loaf, put the bread in a mould and let it rise."
+      },
+      {
         "id": 8,
         "step": 8,
-        "description": "Add the unflitered apple cider vinegar. Please use the proportions calculator to know how much you need."
-    },
-    {
+        "description": "Put the bread in the refrigerator overnight. Remove from the cold one hour before baking."
+      },
+      {
         "id": 9,
         "step": 9,
-        "description": "Cover with a kitchen paper towel, secure with an elastic band and place fermentation container in a dry, dark and aerated place. These are the optimal conditions for the SCOBY to do the fermentation. A kitchen cupboard has worked well for me."
-    },
-    {
-        "id": 10,
-        "step": 10,
-        "description": "Wait for 14 days. The SCOBY will start floating after few days and the cupboard will start smelling of vinegar. I recommend start tasting the kombutcha after 12 days and you move to the next step once you are satisifed with the taste. If you don't know how it should taste because it is your first day, I recommend moving to the next stage at day 14."
-    },
-    {
-        "id": 11,
-        "step": 11,
-        "description": "The SCOBY will probably have grown a new one on top of it. That is normal! Now you have an extra one to share with someone else :) Using vinyl gloves, remove SCOBY and place it on a clean plate. Transfer liquid to a bottle or wherever you wish to consume kombutcha from."
-    },
-    {
-        "id": 12,
-        "step": 12,
-        "description": "What to do with the old/new SCOBY? You can either start a new batch or you can store it in the fridge. For that, reserve some kombutcha and place it in a glass container. Reserve enough so the SCOBY will be totally submerged in it. The cool temperature of the fridge will stop the fermentation, so you can use the SCOBY again whenever you please."
-    }
+        "description": "Heat the oven to 240 degrees. Put the bread in a hot form on parchment, make a cut on top, cover with a lid. Bake for 20 minutes at 240 degrees celsius."
+      }
+    ]
+  }
 ]
